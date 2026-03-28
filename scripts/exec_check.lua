@@ -64,9 +64,11 @@ if #missing > 0 then
         Text = "Missing: " .. table.concat(missing, ", "),
         Duration = 6
     })
-    return
+    return false
 end
 
 if string.lower(identifyexecutor()) == "xeno" then
-    return
+    return false
 end
+
+return true
