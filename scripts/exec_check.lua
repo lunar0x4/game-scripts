@@ -51,7 +51,7 @@ if not cloneref then
         table.insert(missing, "newproxy")
         table.insert(missing, "getmetatable")
 
-        -- we use a fake but working function, doesn't pass unc tets
+        -- we use a fake but working function, doesn't pass unc tests
         getgenv().cloneref = function(obj)
             return obj
         end
