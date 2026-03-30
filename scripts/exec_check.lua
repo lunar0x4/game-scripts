@@ -59,7 +59,7 @@ if not cloneref then
 end
 
 if #missing > 0 then
-    game:GetService("Players").LocalPlayer:Kick("Missing " .. table.concat(missing, ", ")
+    game:GetService("Players").LocalPlayer:Kick("Missing " .. table.concat(missing, ", ")) -- FIXED!
 end
 
 if string.lower(identifyexecutor()) == "xeno" then
