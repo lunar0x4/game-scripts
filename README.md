@@ -2,7 +2,7 @@
 This is an entire repository made for Roblox scripts that I make.
 Feel free to use any, but follow the license.
 
-# View Our Scripts On Scriptblox!
+## View Our Scripts On Scriptblox!
 We are now on ScriptBlox!
 
 Our Scripts:
@@ -15,3 +15,18 @@ Our Scripts:
 - [Funky Friday](https://scriptblox.com/script/Funky-Friday-Auto-Player-Accuracy-Slider-165973)
 
 If you want to view others, [click here!](https://scriptblox.com/u/imjustanaIienguy)
+
+# Script Statuses
+## Status Meanings:
+- 🟢 - Working
+- 🟡 - Issues
+- 🔴 - Down
+
+## Script Statuses:
+- Field Trip Z: 🟢
+- Liquid Submarine: 🟢
+- Prison Life: 🟡 (may get detected and banned from the server only, not the entire game)
+- Break In: 🟢
+- Break In 2: 🟢
+- Funky Friday: 🟢
+- Innovation INC Spaceship: 🟢
