@@ -63,7 +63,7 @@ if #missing > 0 then
 end
 
 if string.lower(identifyexecutor()) == "xeno" then
-    game:GetService("Players").LocalPlayer:Kick("Your executor won't work with most of the scripts (Xeno)")
+    game:GetService("Players").LocalPlayer:Kick("Your executor is trash, try using solara instead")
 end
 
 return true
