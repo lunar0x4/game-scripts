@@ -7,6 +7,6 @@ We are now on ScriptBlox!
 
 Our Scripts:
 
-- https://scriptblox.com/script/Prison-Life-Free-Guns-Arrest-All-Arrest-Aura-Aimbot-OP-165893
-- https://scriptblox.com/script/official-lol-Restored-LS-R.-Liquid-Submarine-Crash-Server-Core-Stabilizer-Free-Coins-165898
-- https://scriptblox.com/script/Prison-Life-Free-Guns-Arrest-All-Arrest-Aura-Aimbot-OP-165893
+- [Prison Life](https://scriptblox.com/script/Prison-Life-Free-Guns-Arrest-All-Arrest-Aura-Aimbot-OP-165893)
+- [Liquid Submarine](https://scriptblox.com/script/official-lol-Restored-LS-R.-Liquid-Submarine-Crash-Server-Core-Stabilizer-Free-Coins-165898)
+- [Field Trip Z](https://scriptblox.com/script/Field-Trip-Z-Infinite-Health-Kill-All-Zombies-Give-Items-OP-Script-165891)
