@@ -1,4 +1,6 @@
--- since theres no exector required functions on this one the exec check isnt needed
+local ok = loadstring(game:HttpGet("https://raw.githubusercontent.com/lunar0x4/game-scripts/refs/heads/main/scripts/exec_check.lua"))()
+if not ok then return end
+
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Liquid Submarine Server Crasher by lunar0x4", "GrapeTheme")
 local Tab = Window:NewTab("Main")
