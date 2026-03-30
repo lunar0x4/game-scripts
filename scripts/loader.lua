@@ -1,5 +1,6 @@
 -- for the ones with multiple files you can execute them yourself
 -- yes, we own all of these.
+-- total games supported: 12
 
 local scripts = {
     [13864661000] = "https://oneshotniko-11.pages.dev/breakin2_lobby.lua", -- break in 2 lobby
