@@ -1,3 +1,6 @@
+local ok = loadstring(game:HttpGet("https://raw.githubusercontent.com/lunar0x4/game-scripts/refs/heads/main/scripts/exec_check.lua"))()
+if not ok then return end
+
 local players = game:GetService("Players")
 local player = players.LocalPlayer
 if workspace[player.Name]:FindFirstChild("AntiJump") then workspace[player.Name].AntiJump:Destroy() print("Antijump Destroyed") end
