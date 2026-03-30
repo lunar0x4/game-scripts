@@ -2,6 +2,17 @@
 This is an entire repository made for Roblox scripts that I make.
 Feel free to use any, but follow the license.
 
+## How To Use
+Execute one of these scripts in your executor:
+```lua
+-- Main Loader
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lunar0x4/game-scripts/refs/heads/main/scripts/loader.lua"))()
+
+-- If it doesn't work, try these mirrors:
+--loadstring(game:HttpGet("https://lunar0x4.hageyexpress.xyz/loader.lua"))()
+--loadstring(game:HttpGet("https://r5tg89defhy6jnu7.pages.dev/loader.lua"))()
+```
+
 ## View Our Scripts On Scriptblox!
 We are now on ScriptBlox!
 
