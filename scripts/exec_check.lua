@@ -59,16 +59,11 @@ if not cloneref then
 end
 
 if #missing > 0 then
-    game.StarterGui:SetCore("SendNotification", {
-        Title = "Script Error",
-        Text = "Missing: " .. table.concat(missing, ", "),
-        Duration = 6
-    })
-    return false
+    game:GetService("Players").LocalPlayer:Kick("Missing " .. table.concat(missing, ", ")
 end
 
 if string.lower(identifyexecutor()) == "xeno" then
-    return false
+    game:GetService("Players").LocalPlayer:Kick("Your executor won't work with most of the scripts (Xeno)")
 end
 
 return true
