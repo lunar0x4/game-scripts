@@ -5,12 +5,12 @@ Feel free to use any, but follow the license.
 ## How To Use
 Execute one of these scripts in your executor:
 ```lua
--- Main Loader
-loadstring(game:HttpGet("https://raw.githubusercontent.com/lunar0x4/game-scripts/refs/heads/main/scripts/loader.lua"))()
+local function load(url)
+    local ok, src = pcall(game.HttpGet, game, url)
+    return ok and src and loadstring(src)
+end
 
--- If it doesn't work, try these mirrors:
---loadstring(game:HttpGet("https://lunar0x4.hageyexpress.xyz/loader.lua"))()
---loadstring(game:HttpGet("https://r5tg89defhy6jnu7.pages.dev/loader.lua"))()
+return load("https://raw.githubusercontent.com/lunar0x4/game-scripts/refs/heads/main/scripts/loader.lua") or load("https://lunar0x4.hageyexpress.xyz/loader.lua") or load("https://r5tg89defhy6jnu7.pages.dev/loader.lua") or error("All loader mirrors failed.")
 ```
 
 ## View Our Scripts On Scriptblox!
