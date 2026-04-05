@@ -41,3 +41,4 @@ If you want to view others, [click here!](https://scriptblox.com/u/imjustanaIien
 - Break In 2: 🟢
 - Funky Friday: 🟢
 - Innovation INC Spaceship: 🟢
+- Rainbow Friends: 🟢
