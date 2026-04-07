@@ -34,11 +34,4 @@ If you want to view others, [click here!](https://scriptblox.com/u/imjustanaIien
 - 🔴 - Down
 
 ## Script Statuses:
-- Field Trip Z: 🟢
-- Liquid Submarine: 🟢
-- Break In: 🟢
-- Break In 2: 🟢
-- Funky Friday: 🟢
-- Innovation INC Spaceship: 🟢
-- Rainbow Friends: 🟢
-- Prison Life: 🟡 (may get detected and banned from the server only, not the entire game)
+https://discord.gg/SAvxqguzzs
