@@ -1,6 +1,6 @@
 -- for the ones with multiple files you can execute them yourself
 -- yes, we own all of these.
--- total games supported: 14
+-- total games supported: 15
 
 local scripts = {
     [13864661000] = "https://oneshotniko-11.pages.dev/breakin2_lobby.lua", -- break in 2 lobby
@@ -19,7 +19,8 @@ local scripts = {
     [510444657]   = "https://rawscripts.net/raw/CRIMINAL-VS.-SWAT-OP-Auto-Farm-40k-an-hour-137938", -- swat vs criminal
     [8888615802] = "https://github.com/lunar0x4/game-scripts/raw/refs/heads/main/scripts/Rainbow%20Friends/main.lua", -- rainbow friends
     [13622981808] = "https://github.com/lunar0x4/game-scripts/raw/refs/heads/main/scripts/Rainbow%20Friends/main.lua", -- rainbow friends (if you wondering why its doubled its cuz its chapter 1 and 2 combined in a script)
-    [9000622508] = "https://github.com/lunar0x4/game-scripts/raw/refs/heads/main/scripts/Mos%20Academy/hub.lua"
+    [9000622508] = "https://github.com/lunar0x4/game-scripts/raw/refs/heads/main/scripts/Mos%20Academy/hub.lua",
+    [537413528] = "https://github.com/lunar0x4/game-scripts/raw/refs/heads/main/scripts/build_a_boat/autofarm.lua"
 }
 
 local url = scripts[game.PlaceId]
